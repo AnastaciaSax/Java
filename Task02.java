@@ -1,4 +1,11 @@
+/*
+Написать и протестировать перегруженный метод, выводящий на экран:
+•	одномерный массив типа int;
+•	одномерный массив типа String;
+•	двухмерный массив типа int;
+•	двухмерный массив типа float
 
+ */
 public class Task02 {
     // Overloaded method
     public static void printArray(int[] arr) {
