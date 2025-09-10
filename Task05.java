@@ -1,3 +1,8 @@
+/*
+Организовать ввод с клавиатуры даты рождения человека.
+Программа должна вывести знак зодиака и название года по китайскому календарю.
+ */
+
 import java.util.Scanner;
 public class Task05 {
     public static void main(String[] args) {

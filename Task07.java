@@ -1,3 +1,8 @@
+/*
+Даны два числа x и y. Программа должна вывести в консоль YES, –
+ если оба числа четные, либо оба числа нечетные; иначе программа ничего не выводит.
+ */
+
 import java.util.Scanner;
 public class Task07 {
     public static void main(String[] args) {
