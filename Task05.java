@@ -1,3 +1,8 @@
+/*
+Вывести на консоль все восьмизначные числа, цифры в которых не повторяются.
+Эти числа должны делиться на 12345, без остатка. Показать общее количество найденных чисел.
+ */
+
 public class Task05 {
     private static boolean doesHaveUniqueDigits(int n) {
         boolean[] digits = new boolean[10]; // digits 0-9
