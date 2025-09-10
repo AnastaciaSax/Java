@@ -12,7 +12,7 @@ public class Task01 {
     public static void main(String[] args) throws InterruptedException {
         int accountCount = 10;
         int initialBalance = 1000;
-        int clientThreads = 8;
+        int clientThreads = 9;
         int operationsPerClient = 500;
 
         Bank bank = new Bank();
